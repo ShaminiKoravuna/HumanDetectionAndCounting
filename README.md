@@ -1,4 +1,4 @@
-# HumanDetectionAndCounting
+# Multiple Human Identifier and Counter in Real-Time
 
 ## Dependencies
 * Python
